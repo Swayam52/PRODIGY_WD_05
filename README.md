@@ -13,7 +13,7 @@ This is task 5 of my Web Development Internship at Prodigy InfoTech. It is a sim
 
 1. Clone the repository: git clone https://github.com/Swayam52/PRODIGY_WD_05.git
 
-2.  Navigate to the project directory: cd PRODIGY_WD_03
+2.  Navigate to the project directory: cd PRODIGY_WD_05
   
 3.  Open the `index.html` file in your web browser.
 
